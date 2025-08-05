@@ -65,3 +65,12 @@ h2 {
 ul {
   padding-left: 20px;
 }
+.profile-pic {
+  width: 100px;   /* reduced from 150px */
+  height: 100px;  /* keep same proportion */
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+
+
