@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-  background: #0a0a23;
+  background: #31e8f5;
   padding: 20px;
   display: flex;
   justify-content: space-between;
@@ -57,7 +57,7 @@ section {
 }
 
 h2 {
-  color: #07f0e9; /* Deep sky blue heading */
+  color: #290ec2; /* Deep sky blue heading */
   border-bottom: 2px solid #2e86de;
   padding-bottom: 5px;
 }
