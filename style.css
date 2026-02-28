@@ -13,16 +13,10 @@ nav {
   align-items: center;
   flex-wrap: wrap;
 }
-
 nav h1 {
-      margin: 0;
-      color: #0B1036; /* Arnab Das */
-      border: 2px solid black;
-      padding: 6px 14px;
-      border-radius: 6px;
-      letter-spacing: 1px;
-      font-size: 22px;
-    }
+  margin: 0;
+  color: #0B1036; /* Arnab Das */
+}
  
 nav ul {
   list-style: none;
